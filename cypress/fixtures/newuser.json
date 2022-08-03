@@ -1,0 +1,19 @@
+[
+    {
+        "firstname": "Richard ",
+        "lastname": "Little",
+        "address": "1477 Hamill Avenue San Diego",
+        "country": "USA",
+        "phone": "8583592010",
+        "password": "fakeBig#Password",
+        "skill": "C++",
+        "email": "demo@example.com",
+        "gender": "male",
+        "Hobbies": "Cricket",
+        "dob": {
+            "year": "1987",
+            "month": "January",
+            "day" : "30"
+        }
+    }
+]
