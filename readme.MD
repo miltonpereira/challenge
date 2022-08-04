@@ -8,7 +8,7 @@ This repo contains test cases written in cypress and vanilla javascript with cuc
 ## Installtion
 
 - Clone the repo
-- ```cd && npm install```
+- ```cd challenge && npm install```
 
 ## Execution
 - To excute test on cypress runner use command 
